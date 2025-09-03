@@ -35,6 +35,3 @@ app.get("/", (req, res) => {
 app.listen(port, () => {
     console.log(`Server started on http://localhost:${port}`)
 })
-
-
-//mongodb+srv://abhijitpatil2004:abhijitpatil2004@cluster0.cdvpy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
